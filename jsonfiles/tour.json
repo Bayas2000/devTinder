@@ -1,0 +1,42 @@
+[
+    {
+        "facilityType": "Standart",
+        "roomType": "Standart",
+        "vechile": "Bus",
+        "destinationFrom": "Kadayanallur",
+        "destinationTo": "Munnar",
+        "travellersDetails": [
+            {
+                "travellerType": "Adult",
+                "quantity": 1,
+                "price": 12000
+            },
+            {
+                "travellerType": "Child",
+                "quantity": 1,
+                "price": 8000
+            }
+        ],
+        "finalAmound": 20000
+    },
+    {
+        "facilityType": "Premium",
+        "roomType": "Premium",
+        "vechile": "Bus AC",
+        "destinationFrom": "Kadayanallur",
+        "destinationTo": "Munnar",
+        "travellersDetails": [
+            {
+                "travellerType": "Adult",
+                "quantity": 1,
+                "price": 16000
+            },
+            {
+                "travellerType": "Child",
+                "quantity": 1,
+                "price": 12000
+            }
+        ],
+        "finalAmound": 28000
+    }
+]
